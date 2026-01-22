@@ -116,15 +116,15 @@ All test cases were validated successfully in Cisco Packet Tracer.
 ---
 
 ## 📁 Repository Contents
-- `Enterprise_Network.pkt` – Cisco Packet Tracer simulation file
-- `Network_Design_Report.pdf` – Detailed design and evaluation report
+- `SA2526303.pkt` – Cisco Packet Tracer simulation file
+- `SA2526303.pdf` – Detailed design and evaluation report
 
 ---
 
 ## 📚 Author
-Designed and implemented as part of an academic networking assignment.
+Designed and implemented as part of an academic networking assignment by V. Gurunivasan.
 
 ---
 
 ## ⚠️ Disclaimer
-This project is intended for **educational purposes** and network design demonstration only.
+This project is intended for **educational purposes** and network design demonstration only. All companies that are potrayed in the project are merely fictional.
